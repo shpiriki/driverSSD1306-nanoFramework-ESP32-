@@ -1,3 +1,4 @@
+//небольшая обертка для легкого использования
 using System;
 using System.Device.I2c;
 using Iot.Device.Ssd13xx;
